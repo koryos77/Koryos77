@@ -4,11 +4,10 @@ Hi 👋 My name is Kevin Rouget
 I'm a student in the Holberton School
 -------------------------------------
 
-I'd love to work in Cybersecurity
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [k.rouget21@gmail.com](mailto:k.rouget21@gmail.com)
-* 🧠  I'm learning C language
+* 🧠  I'm learning the fondamentals of programmaton.
 * ⚡  I learn HTML and CSS by myself and learning Python now.
 
 ### Skills
