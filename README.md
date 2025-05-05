@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://www.freepik.com/free-ai-image/3d-view-personal-computer-with-vegetation_60908610.htm#fromView=keyword&page=9&position=17&uuid=7be96336-4e9c-424d-bc20-a7e87f2f3d18&query=Programmer+Wallpaper" alt="Welcome Banner" width="100%" />
+<img src="https://www.deviantart.com/roh122/art/Retro-Coding-Vibes-918554052" alt="Welcome Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Kevin Rouget</h1>
 <h3 align="center">💻 Full Stack Developer in training at Holberton School</h3>
