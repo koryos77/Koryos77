@@ -1,30 +1,47 @@
-Hi 👋 My name is Kevin Rouget
-=============================
+<!-- Banner Image -->
+<img src="https://www.freepik.com/free-ai-image/3d-view-personal-computer-with-vegetation_60908610.htm#fromView=keyword&page=9&position=17&uuid=7be96336-4e9c-424d-bc20-a7e87f2f3d18&query=Programmer+Wallpaper" alt="Welcome Banner" width="100%" />
 
-I'm a student in the Holberton School
--------------------------------------
+<h1 align="center">Hi 👋, I'm Kevin Rouget</h1>
+<h3 align="center">💻 Full Stack Developer in training at Holberton School</h3>
 
+---
 
-* 🌍  I'm based in France
-* ✉️  You can contact me at [k.rouget21@gmail.com](mailto:k.rouget21@gmail.com)
-* 🧠  I'm learning the fondamentals of programmaton.
-* ⚡  I learn HTML and CSS by myself and learning Python now.
+🌱 I’m currently learning everything to become a **Full Stack Developer**  
+🎯 My goal: Build scalable and efficient web applications  
+📚 I'm skilled in:  
+- **Languages:** C, Python, JavaScript, Bash, SQL, NoSQL  
+- **Frontend:** HTML5, CSS3, React, Vite  
+- **Backend:** Node.js, MongoDB  
+- **DevOps & Tools:** Docker, Git, Linux, VSCode  
 
-### Skills
+📫 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-Kevin%20Rouget-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-rouget-390179341/)](https://www.linkedin.com/in/kevin-rouget-390179341/)
 
+---
+
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/koryos77" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+### 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koryos77&show_icons=true&theme=github_dark" alt="Koryos77's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=koryos77&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koryos77&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
-<a href="http://www.github.com/koryos77"><img src="https://github-readme-stats.vercel.app/api?username=koryos77&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="koryos77's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/koryos77"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koryos77&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/koryos77"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=koryos77&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
