@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://www.deviantart.com/roh122/art/Retro-Coding-Vibes-918554052" alt="Welcome Banner" width="100%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5781361c-9dbe-48c4-a5d1-76db536a7abb/df6vsuc-079e279f-4a64-41fa-8dd2-2bdd432768e4.png/v1/fill/w_1192,h_670,q_70,strp/retro_coding_vibes_by_roh122_df6vsuc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTc4MTM2MWMtOWRiZS00OGM0LWE1ZDEtNzZkYjUzNmE3YWJiXC9kZjZ2c3VjLTA3OWUyNzlmLTRhNjQtNDFmYS04ZGQyLTJiZGQ0MzI3NjhlNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NSXCZvHJQcOt3F84jeOpiVvHfwDyFOPx1PL3fdxw72k" alt="Welcome Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Kevin Rouget</h1>
 <h3 align="center">💻 Full Stack Developer in training at Holberton School</h3>
